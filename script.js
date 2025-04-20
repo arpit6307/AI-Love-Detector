@@ -176,7 +176,7 @@ document.addEventListener("DOMContentLoaded", () => {
 🔙 Back Button Functionality
 --------------------*/
 document.getElementById("backButton").addEventListener("click", () => {
-    window.location.href = "https://anwesha-lac.vercel.app/"; // Redirect to Love Carousel
+    window.location.href = "https://anwesha-three.vercel.app/"; // Redirect to Love Carousel
 });
 
 
